@@ -1,0 +1,28 @@
+<resources>
+
+    <string name="app_name">Location4</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="clear_aiding_data">Dele all aid</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="latitude">latitude</string>
+    <string name="longitude">longitude</string>
+    <string name="altitude">altitude</string>
+    <string name="start_mode">start_mode</string>
+    <string name="speed">speed</string>
+    <string name="heading">heading</string>
+    <string name="accuracy">accuracy</string>
+    <string name="TTFF">TTFF</string>
+    <string name="inused">In_used/Total</string>
+    <string name="sv_map">show SV map</string>
+    <string name="settings">settings</string>
+    <string name="COUNT">count</string>
+    <string name="interval">interval</string>
+    <string name="time_out">time out</string>
+    <string name="pre_TTFF">pre_ttff</string>
+    <string name="avg_TTFF">avg_ttff</string>
+    <string name="max_TTFF">max_ttff</string>
+    <string name="logpath">/sdcard/gpstest</string>
+</resources>
